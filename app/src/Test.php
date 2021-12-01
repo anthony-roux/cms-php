@@ -6,6 +6,6 @@ class Test
 {
   public static function test()
   {
-    return 'Test';
+    return 'Je suis un test';
   }
 }
