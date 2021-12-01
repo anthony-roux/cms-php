@@ -11,5 +11,7 @@
             "email": "roux.anthony@hetic.net"
         }
     ],
-    "require": {}
+    "require": {
+        "twbs/bootstrap": "5.1.3"
+    }
 }
