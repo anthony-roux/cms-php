@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '4cc222b0e46cf218aac0c6b4269b4d1dfb888d30',
+    'reference' => 'c0962574c181f839d6d510cafd2c0fc4a432310f',
     'name' => 'anthony.roux/app',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '4cc222b0e46cf218aac0c6b4269b4d1dfb888d30',
+      'reference' => 'c0962574c181f839d6d510cafd2c0fc4a432310f',
     ),
     'twbs/bootstrap' => 
     array (

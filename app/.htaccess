@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^home$ index.php
+
+RewriteRule ^article/([a-z0-9-]+)-([0-9]+)$ article.php?name=$1&id=$2
