@@ -1,0 +1,39 @@
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 6;
+  color: white !important;
+}
+
+.header__logo {
+  width: 70px !important;
+}
+.header__search {
+  min-width: fit-content !important;
+}
+
+
+.container-body {
+  min-height: 80vh;
+  padding-top: 112px !important;
+}
+
+.article {
+  height: fit-content;
+}
+
+.footer  {
+  height: 150px;
+  border-top: 1px solid rgb(192, 211, 243);
+}
+
+.footer .footer__container {
+
+}
+
+
+.btn-primary--custom {
+  background-color: #ffc107 !important;
+  border-color: #f0b914 !important;
+}
