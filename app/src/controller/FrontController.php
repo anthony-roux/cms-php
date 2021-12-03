@@ -11,9 +11,9 @@ class FrontController
   {
     $manager = new PostManager(PDOFactory::getMySQLConnection());
     $posts = $manager->getAllPosts();
-    echo '<pre>';
-    var_dump($posts);
-    die();
+    // echo '<pre>';
+    // var_dump($posts);
+    // die();
     require './src/view/header.php';
     require './src/view/container-body.php';
     require './src/view/footer.php';

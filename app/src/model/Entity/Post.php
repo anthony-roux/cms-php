@@ -6,10 +6,16 @@ use DateTime;
 
 class Post
 {
+  private string $image;
   private int $id;
   private string $title;
   private string $content;
   private $createdAt;
+
+  public function getImage()
+  {
+    return $this->image;
+  }
 
   public function getId()
   {
