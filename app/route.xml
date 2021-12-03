@@ -1,0 +1,4 @@
+<routes>
+  <route p="/" controller="FrontController" action="index" />
+  <route p="show" controller="FrontController" action="show" params="id" />
+</routes>
