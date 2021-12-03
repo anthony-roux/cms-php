@@ -2,7 +2,7 @@
     <div class="d-flex justify-content-start flex-wrap">
 
       <?php
-      require './src/article.php';
+      require './src/view/article.php';
       ?>
 
     </div>
